@@ -71,4 +71,5 @@ if qr_input:
             }).execute()
             
             st.balloons()
+
             st.success("Intervention validée et stock mis à jour !")
