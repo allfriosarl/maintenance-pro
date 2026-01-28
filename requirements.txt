@@ -3,3 +3,4 @@ supabase
 qrcode
 pillow
 pandas
+streamlit-drawable-canvas
